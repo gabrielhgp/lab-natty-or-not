@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Avatares IA para quem não quer aparecer publicamente.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora como as IAs generativas podem criar avatares digitais realistas que falam com a nossa própria voz ou voz criada da forma descrita no prompt.
+A motivação principal é superar a vergonha de aparecer e falar em público (mesmo em vídeos gravados), utilizando a IA como ponte para conseguir se expressar sem a exposição direta da imagem real.
+
+A ideia é brincar com o conceito “Natural ou Fake Natty?”, mostrando como a linha entre o real e o artificial está cada vez mais sutil.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- HeyGen → criação do avatar realista em vídeo;
+- ElevenLabs → criação e geração de voz natural;
+- ChatGPT (OpenAI GPT-5) → criação de roteiro/textos para narração;
+- Tiktok  → criação da página do avatar para postagens do vídeos.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1 - Criei um roteiro curto com ajuda do ChatGPT.
+2 - Usei o ElevenLabs para clonar criar uma voz e fala que me definisse.
+3 - Levei o áudio para o HeyGen e produzi um avatar realista que acompanha a fala com sincronização labial.
+4 - Ajustei detalhes de expressão e movimento para deixar o resultado mais “natural”.
+5 - Encontrei conteúdos para o avatar narrar.
+6 - Postei na página do avatar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um vídeo curto com um avatar digital falando com a voz que me define.
+Demonstração de como a IA pode criar personagens quase indistinguíveis de pessoas reais.
+Solução prática para quem sente vergonha de aparecer em vídeos, mas ainda deseja criar conteúdo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[Tiktok NexuIA](https://www.tiktok.com/@_nexuia)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+O maior desafio foi deixar o avatar convincente: em alguns momentos os movimentos da boca ainda entregam que não é humano. Mesmo assim, a combinação de voz clonada + avatar em vídeo mostra o quão poderosa a IA está para criar conteúdos hiper-realistas e ajudar pessoas a vencer barreiras pessoais, como a timidez em frente às câmeras.
