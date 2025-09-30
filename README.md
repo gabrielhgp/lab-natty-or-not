@@ -13,12 +13,12 @@ A ideia é brincar com o conceito “Natural ou Fake Natty?”, mostrando como a
 - Tiktok  → criação da página do avatar para postagens do vídeos.
 
 ## 🧐 Processo de Criação
-1 - Criei um roteiro curto com ajuda do ChatGPT.
-2 - Usei o ElevenLabs para clonar criar uma voz e fala que me definisse.
-3 - Levei o áudio para o HeyGen e produzi um avatar realista que acompanha a fala com sincronização labial.
-4 - Ajustei detalhes de expressão e movimento para deixar o resultado mais “natural”.
-5 - Encontrei conteúdos para o avatar narrar.
-6 - Postei na página do avatar.
+- Criei um roteiro curto com ajuda do ChatGPT;
+- Usei o ElevenLabs para clonar criar uma voz e fala que me definisse;
+- Levei o áudio para o HeyGen e produzi um avatar realista que acompanha a fala com sincronização labial;
+- Ajustei detalhes de expressão e movimento para deixar o resultado mais “natural”;
+- Encontrei conteúdos para o avatar narrar;
+- Postei na página do avatar.
 
 ## 🚀 Resultados
 Um vídeo curto com um avatar digital falando com a voz que me define.
